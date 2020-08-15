@@ -9,6 +9,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatobus&hide=Jupyter+Notebook,C,html,css" />
 </a>
 
+<br>
+
 - Language
   - Python :snake:
   - Golang :go:
