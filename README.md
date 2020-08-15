@@ -21,16 +21,3 @@
   - Raspberry pi :strawberry:
 
 Degree in Computer science from University of Aizu
-
-# Tool
-
-![loved badge](https://img.shields.io/badge/loved-tools-ff69b4.svg?style=for-the-badge)
-
-- Editor
-  - Vim
-  - VsCode
-  - GoLand
-- Machine
-  - Thinkpad
-- Broswer
-  - Vivaldi
