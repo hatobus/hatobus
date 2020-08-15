@@ -1,6 +1,12 @@
 # :bird: hatobus :bus:
 
-![hatobus github stats](https://github-readme-stats.vercel.app/api?username=hatobus&show_icons=true&count_private=true)![hatobus github stats](https://github-readme-stats.vercel.app/api?username=hatobus&show_icons=true&count_private=true)
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=hatobus&show_icons=true&count_private=true"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatobus&hide=Jupyter+Notebook,C,html,css"></td>
+</tr>
+</table>
+
 
 # Skill
 
