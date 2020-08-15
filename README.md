@@ -14,7 +14,7 @@
 
 - Language
   - Python :snake:
-  - Golang :go:
+  - Go :go:
 - Electronics
   - Arduino
   - ESP series
